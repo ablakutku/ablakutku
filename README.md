@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **utkukfk2@gmail.com**
 
-- 📄 Know about my experiences [Tell me on telegram : twingolover](Tell me on telegram : twingolover)
+- 📄 Know about my experiences [Tell me on telegram : twingolover]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

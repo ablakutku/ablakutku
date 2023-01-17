@@ -1,24 +1,3 @@
-- 👋 Hi, I’m Utku.
-- 👀 I’m interested in FrontEnd Developing.
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me Instagram : @utkuablak1 or Telegram : @twingolover
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14164
-Fork on GitHub
-3765
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">A junior frontend developer from Turkey</h3>
 
@@ -48,6 +27,3 @@ preview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ablakutku&show_icons=true&locale=en&layout=compact" alt="ablakutku" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ablakutku&show_icons=true&locale=en" alt="ablakutku" /></p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablakutku&show_icons=true&theme=transparent)

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">A junior frontend developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ablakutku" alt="ablakutku" /></a> </p>
-
 - 🔭 I’m currently working on [BiletBudur](https://ablakutku.github.io/biletbudur)
 
 - 🌱 I’m currently learning **ReactJS**

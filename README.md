@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="/images/bg.jpg">
+</p>
+
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">A junior frontend developer from Turkey</h3>
 
